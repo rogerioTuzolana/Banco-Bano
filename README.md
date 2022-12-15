@@ -10,11 +10,11 @@ seguida é adicionada o nº da conta que é criada automaticamente com o formato
 
 Cliente pode efectuar as seguentes operações:
 
-TRANSFERIR
-DEPOSITAR
-CONSULTAR
-LEVANTAR
-DEPOSITAR EM KID(caso tenha conta kid criada, pedir o nº da cédula para o
+#TRANSFERIR
+#DEPOSITAR
+#CONSULTAR
+#LEVANTAR
+#DEPOSITAR EM KID(caso tenha conta kid criada, pedir o nº da cédula para o
 processo).
-CRIAR CONTA KID
-HISTÓRIO DE OPERAÇÕES
+#CRIAR CONTA KID
+#HISTÓRIO DE OPERAÇÕES
